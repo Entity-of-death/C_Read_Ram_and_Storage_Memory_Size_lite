@@ -1,8 +1,8 @@
 Copyright (C) 2024 ???Nevermind!!!
 
-This file is part of Rrasms.
+This file is part of C_Read_Ram_and_Storage_Memory_Size_lite.
 
-Rrasms is free software: you can redistribute it and/or modify it
+C_Read_Ram_and_Storage_Memory_Size_lite is free software: you can redistribute it and/or modify it
 under the terms of the GNU Lesser General Public License, as published
 by the Free Software Foundation, either version 3 of the License, or
 (at your option) any later version.
