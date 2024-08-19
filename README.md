@@ -1,6 +1,8 @@
 RRASMS (Read Ram and Storage Memory Size) is a C library for determining the total and free size of RAM and hard disk for Windows64 and Windows32 systems as well as for Linux/Unix-based systems.
 
-_______________________________________How do I use it?__________________________________________________
+<div align="center">
+__How do I use it?__
+<div>
 
 You can use it by calling the appropriate functions:
 
@@ -22,7 +24,8 @@ Note: Unit is a parameter with the data type unsigned long and expects one of th
 3 = returns the content in gigabytes.
 
 
-
-_________________________________________________Use libraries:________________________________________________
+<div align="center">
+__Use libraries:__
+<div>
 GNU C Libary.
 Windows API.
