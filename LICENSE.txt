@@ -1,4 +1,4 @@
-Copyright (C) 2024 ???Nevermind!!!
+Copyright (C) 2024 QM-Nevermind
 
 This file is part of C_Read_Ram_and_Storage_Memory_Size_lite.
 
